@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.adventure.MT1" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-10T04:05:49" hostname="Taylors-Air.lan" time="0.079">
-  <properties/>
-  <testcase name="smokeTest()" classname="com.adventure.MT1" time="0.079"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
